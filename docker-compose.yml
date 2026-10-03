@@ -1,0 +1,15 @@
+services:
+  postgres:
+    image: postgres:16
+    container_name: trailhub-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: trailhub
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+      POSTGRES_DB: trailhub
+    ports:
+      - "5432:5432"
+    volumes:
+      - trailhub-data:/var/lib/postgresql/data
+volumes:
+  trailhub-data:
