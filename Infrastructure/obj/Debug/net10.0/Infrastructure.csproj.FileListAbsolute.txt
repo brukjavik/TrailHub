@@ -1,0 +1,17 @@
+D:\Programming\Projects\Personal Projects\TrailHub\Infrastructure\bin\Debug\net10.0\Infrastructure.deps.json
+D:\Programming\Projects\Personal Projects\TrailHub\Infrastructure\bin\Debug\net10.0\Infrastructure.dll
+D:\Programming\Projects\Personal Projects\TrailHub\Infrastructure\bin\Debug\net10.0\Infrastructure.pdb
+D:\Programming\Projects\Personal Projects\TrailHub\Infrastructure\bin\Debug\net10.0\Application.dll
+D:\Programming\Projects\Personal Projects\TrailHub\Infrastructure\bin\Debug\net10.0\Domain.dll
+D:\Programming\Projects\Personal Projects\TrailHub\Infrastructure\bin\Debug\net10.0\Domain.pdb
+D:\Programming\Projects\Personal Projects\TrailHub\Infrastructure\bin\Debug\net10.0\Application.pdb
+D:\Programming\Projects\Personal Projects\TrailHub\Infrastructure\obj\Debug\net10.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Programming\Projects\Personal Projects\TrailHub\Infrastructure\obj\Debug\net10.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Projects\Personal Projects\TrailHub\Infrastructure\obj\Debug\net10.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Programming\Projects\Personal Projects\TrailHub\Infrastructure\obj\Debug\net10.0\Infrastructure.AssemblyInfo.cs
+D:\Programming\Projects\Personal Projects\TrailHub\Infrastructure\obj\Debug\net10.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Programming\Projects\Personal Projects\TrailHub\Infrastructure\obj\Debug\net10.0\Infrastr.15EFFBFE.Up2Date
+D:\Programming\Projects\Personal Projects\TrailHub\Infrastructure\obj\Debug\net10.0\Infrastructure.dll
+D:\Programming\Projects\Personal Projects\TrailHub\Infrastructure\obj\Debug\net10.0\refint\Infrastructure.dll
+D:\Programming\Projects\Personal Projects\TrailHub\Infrastructure\obj\Debug\net10.0\Infrastructure.pdb
+D:\Programming\Projects\Personal Projects\TrailHub\Infrastructure\obj\Debug\net10.0\ref\Infrastructure.dll
