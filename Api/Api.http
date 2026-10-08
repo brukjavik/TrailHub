@@ -1,6 +1,27 @@
-@Api_HostAddress = http://localhost:5212
+### Criar uma trilha
+POST http://localhost:5212/trails
+Content-Type: application/json
 
-GET {{Api_HostAddress}}/weatherforecast/
-Accept: application/json
+{
+    "name": "Trilha do Pico da Neblina",
+    "description": "Uma trilha muito assustadora",
+    "length": 25
+}
+
+### Buscar trilhas
+GET http://localhost:5212/trails?trailName=Trilha do Galeto
 
 ###
+
+DELETE http://localhost:5212/trails?trailName=Trilha do Galeto
+
+###
+
+PUT http://localhost:5212/trails
+Content-Type: application/json
+
+{
+    "name": "Trilha do Galeto",
+    "description": "Uma trilha muito bonita",
+    "length": 17
+}
